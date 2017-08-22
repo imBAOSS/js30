@@ -21,7 +21,7 @@ body, html {
   filter: grayscale(0.6);
 }
 
-.key {
+.keys__key {
   border: .4rem solid white;
   border-radius: .5rem;
   margin: 1rem;
@@ -35,7 +35,7 @@ body, html {
   text-shadow: 0 0 0.5rem black;
 }
 
-.playing {
+.key--playing {
   transform: scale(1.1);
   border-color: #00B0D0;
   box-shadow: 0 0 1rem #00B0D0;
